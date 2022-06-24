@@ -20,6 +20,21 @@ h1{
     justify-content: space-around;
     margin-bottom: 20px;
 }
+#greeting{
+    text-align: center;
+
+}
+button{
+    padding: 12px;
+    text-decoration: none;
+    font-size: 1.4rem;
+    
+    
+}
+input{
+    padding: 18px;
+    width: 250px;
+}
 a{
     text-decoration: none;
     font-size: 1.6rem;
@@ -47,13 +62,14 @@ img{
     padding: 20px;
 }
 #tractors{
-    display: grid;
+    display: ;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 50px;
     margin-right: 50px;
     border: 1px solid red;
-
+    justify-content: center;
+    align-items: center;
 
 }
 

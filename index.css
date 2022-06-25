@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
 body{
     font-family: "Viga",sans-serif;
+    background-color: rgb(201, 45, 45);
 }
 
 #navigation{
@@ -40,7 +41,7 @@ input{
 a{
     text-decoration: none;
     font-size: 1.6rem;
-    color: brown;
+    color: white;
     font-weight: bold;
     padding: 20px;
 }
@@ -64,7 +65,7 @@ img{
     padding: 20px;
 }
 #tractors{
-    display: ;
+    
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 50px;
@@ -74,4 +75,6 @@ img{
     align-items: center;
 
 }
-
+#logo{
+    text-align: center;
+}

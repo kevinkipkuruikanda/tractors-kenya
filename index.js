@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded",alert("welcome to tractors hub kenya"))
+document.addEventListener("DOMContentLoaded",alert("welcome to tractor hub kenya"))
 let input=document.querySelector("#input")
 let btn =document.querySelector("#btn")
 let salam=document.querySelector("#salam")
